@@ -10,6 +10,9 @@ HK Central Map in offline mode. The revised app is greate helpful during my hiki
 3. Add reset track style to default option;
 
 2016-10-05:
+
 4. Add offline map of www.map.gov.hk/mobile
 5. Change absolute path of offline map to relative path & show toast error msg. if no map is found.
 6. Disable zoom in/out function in touch mode.
+
+
